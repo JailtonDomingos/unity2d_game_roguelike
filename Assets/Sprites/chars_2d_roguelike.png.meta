@@ -1,0 +1,903 @@
+fileFormatVersion: 2
+guid: e0bde051e85b9a84db96beee729eb437
+timeCreated: 1522006332
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: chars_2d_roguelike_0
+    21300002: chars_2d_roguelike_1
+    21300004: chars_2d_roguelike_2
+    21300006: chars_2d_roguelike_3
+    21300008: chars_2d_roguelike_4
+    21300010: chars_2d_roguelike_5
+    21300012: chars_2d_roguelike_6
+    21300014: chars_2d_roguelike_7
+    21300016: chars_2d_roguelike_8
+    21300018: chars_2d_roguelike_9
+    21300020: chars_2d_roguelike_10
+    21300022: chars_2d_roguelike_11
+    21300024: chars_2d_roguelike_12
+    21300026: chars_2d_roguelike_13
+    21300028: chars_2d_roguelike_14
+    21300030: chars_2d_roguelike_15
+    21300032: chars_2d_roguelike_16
+    21300034: chars_2d_roguelike_17
+    21300036: chars_2d_roguelike_18
+    21300038: chars_2d_roguelike_19
+    21300040: chars_2d_roguelike_20
+    21300042: chars_2d_roguelike_21
+    21300044: chars_2d_roguelike_22
+    21300046: chars_2d_roguelike_23
+    21300048: chars_2d_roguelike_24
+    21300050: chars_2d_roguelike_25
+    21300052: chars_2d_roguelike_26
+    21300054: chars_2d_roguelike_27
+    21300056: chars_2d_roguelike_28
+    21300058: chars_2d_roguelike_29
+    21300060: chars_2d_roguelike_30
+    21300062: chars_2d_roguelike_31
+    21300064: chars_2d_roguelike_32
+    21300066: chars_2d_roguelike_33
+    21300068: chars_2d_roguelike_34
+    21300070: chars_2d_roguelike_35
+    21300072: chars_2d_roguelike_36
+    21300074: chars_2d_roguelike_37
+    21300076: chars_2d_roguelike_38
+    21300078: chars_2d_roguelike_39
+    21300080: chars_2d_roguelike_40
+    21300082: chars_2d_roguelike_41
+    21300084: chars_2d_roguelike_42
+    21300086: chars_2d_roguelike_43
+    21300088: chars_2d_roguelike_44
+    21300090: chars_2d_roguelike_45
+    21300092: chars_2d_roguelike_46
+    21300094: chars_2d_roguelike_47
+    21300096: chars_2d_roguelike_48
+    21300098: chars_2d_roguelike_49
+    21300100: chars_2d_roguelike_50
+    21300102: chars_2d_roguelike_51
+    21300104: chars_2d_roguelike_52
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chars_2d_roguelike_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 672
+        width: 78
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 672
+        width: 81
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 672
+        width: 75
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_3
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 672
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_4
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 87
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_5
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 672
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_6
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 672
+        width: 72
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_7
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 0
+        width: 87
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_8
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 672
+        width: 72
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 576
+        width: 78
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_10
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 576
+        width: 75
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_11
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 576
+        width: 78
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_12
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 576
+        width: 72
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_13
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 576
+        width: 72
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_14
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 576
+        width: 75
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_15
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 576
+        width: 75
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 480
+        width: 78
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_17
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 81
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_18
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 480
+        width: 78
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_19
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 480
+        width: 72
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_20
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 480
+        width: 72
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_21
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 480
+        width: 75
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_22
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 480
+        width: 75
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_23
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 384
+        width: 75
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_24
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 384
+        width: 75
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_25
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 384
+        width: 84
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_26
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 384
+        width: 84
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_27
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 384
+        width: 72
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_28
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 384
+        width: 72
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_29
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 288
+        width: 78
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_30
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 288
+        width: 78
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_31
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 288
+        width: 78
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_32
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 288
+        width: 78
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_33
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 288
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_34
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 288
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_35
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 192
+        width: 75
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_36
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 192
+        width: 75
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_37
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 192
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_38
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 192
+        width: 78
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_39
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 192
+        width: 78
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_40
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 192
+        width: 78
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_41
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 96
+        width: 75
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_42
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 96
+        width: 75
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_43
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 96
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_44
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 96
+        width: 78
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_45
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 96
+        width: 75
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_46
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 96
+        width: 75
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_47
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 78
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_48
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 78
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_49
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 0
+        width: 78
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_50
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 0
+        width: 78
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_51
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 0
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chars_2d_roguelike_52
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 0
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
